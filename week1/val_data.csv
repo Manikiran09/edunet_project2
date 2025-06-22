@@ -1,0 +1,301 @@
+filepath,label,split
+ewaste-dataset\val\Battery\battery_103.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_105.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_108.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_118.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_122.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_129.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_130.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_146.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_147.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_150.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_169.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_189.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_198.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_224.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_226.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_229.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_23.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_239.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_247.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_265.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_277.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_280.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_286.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_34.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_37.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_65.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_66.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_88.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_95.jpg,Battery,val
+ewaste-dataset\val\Battery\battery_99.jpg,Battery,val
+ewaste-dataset\val\Keyboard\Keyboard_103.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_105.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_108.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_118.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_122.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_129.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_130.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_146.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_147.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_150.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_169.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_189.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_198.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_224.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_226.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_229.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_23.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_239.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_247.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_265.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_277.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_280.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_286.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_34.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_37.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_65.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_66.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_88.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_95.jpg,Keyboard,val
+ewaste-dataset\val\Keyboard\Keyboard_99.jpg,Keyboard,val
+ewaste-dataset\val\Microwave\Microwave_103.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_105.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_108.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_118.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_122.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_129.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_130.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_146.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_147.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_150.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_169.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_189.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_198.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_224.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_226.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_229.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_23.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_239.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_247.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_265.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_277.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_280.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_286.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_34.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_37.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_65.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_66.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_88.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_95.jpg,Microwave,val
+ewaste-dataset\val\Microwave\Microwave_99.jpg,Microwave,val
+ewaste-dataset\val\Mobile\Mobile_103.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_105.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_108.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_118.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_122.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_129.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_130.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_146.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_147.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_150.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_169.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_189.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_198.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_224.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_226.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_229.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_23.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_239.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_247.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_265.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_277.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_280.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_286.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_34.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_37.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_65.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_66.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_88.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_95.jpg,Mobile,val
+ewaste-dataset\val\Mobile\Mobile_99.jpg,Mobile,val
+ewaste-dataset\val\Mouse\Mouse_103.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_105.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_108.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_118.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_122.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_129.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_130.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_146.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_147.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_150.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_169.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_189.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_198.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_224.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_226.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_229.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_23.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_239.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_247.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_265.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_277.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_280.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_286.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_34.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_37.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_65.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_66.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_88.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_95.jpg,Mouse,val
+ewaste-dataset\val\Mouse\Mouse_99.jpg,Mouse,val
+ewaste-dataset\val\PCB\pcb_103.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_105.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_108.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_118.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_122.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_129.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_130.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_146.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_147.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_150.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_169.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_189.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_198.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_224.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_226.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_229.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_23.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_239.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_247.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_265.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_277.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_280.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_286.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_34.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_37.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_65.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_66.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_88.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_95.jpg,PCB,val
+ewaste-dataset\val\PCB\pcb_99.jpg,PCB,val
+ewaste-dataset\val\Player\Player_103.jpg,Player,val
+ewaste-dataset\val\Player\Player_105.jpg,Player,val
+ewaste-dataset\val\Player\Player_108.jpg,Player,val
+ewaste-dataset\val\Player\Player_118.jpg,Player,val
+ewaste-dataset\val\Player\Player_122.jpg,Player,val
+ewaste-dataset\val\Player\Player_129.jpg,Player,val
+ewaste-dataset\val\Player\Player_130.jpg,Player,val
+ewaste-dataset\val\Player\Player_146.jpg,Player,val
+ewaste-dataset\val\Player\Player_147.jpg,Player,val
+ewaste-dataset\val\Player\Player_150.jpg,Player,val
+ewaste-dataset\val\Player\Player_169.jpg,Player,val
+ewaste-dataset\val\Player\Player_189.jpg,Player,val
+ewaste-dataset\val\Player\Player_198.jpg,Player,val
+ewaste-dataset\val\Player\Player_224.jpg,Player,val
+ewaste-dataset\val\Player\Player_226.jpg,Player,val
+ewaste-dataset\val\Player\Player_229.jpg,Player,val
+ewaste-dataset\val\Player\Player_23.jpg,Player,val
+ewaste-dataset\val\Player\Player_239.jpg,Player,val
+ewaste-dataset\val\Player\Player_247.jpg,Player,val
+ewaste-dataset\val\Player\Player_265.jpg,Player,val
+ewaste-dataset\val\Player\Player_277.jpg,Player,val
+ewaste-dataset\val\Player\Player_280.jpg,Player,val
+ewaste-dataset\val\Player\Player_286.jpg,Player,val
+ewaste-dataset\val\Player\Player_34.jpg,Player,val
+ewaste-dataset\val\Player\Player_37.jpg,Player,val
+ewaste-dataset\val\Player\Player_65.jpg,Player,val
+ewaste-dataset\val\Player\Player_66.jpg,Player,val
+ewaste-dataset\val\Player\Player_88.jpg,Player,val
+ewaste-dataset\val\Player\Player_95.jpg,Player,val
+ewaste-dataset\val\Player\Player_99.jpg,Player,val
+ewaste-dataset\val\Printer\Printer_103.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_105.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_108.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_118.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_122.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_129.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_130.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_146.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_147.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_150.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_169.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_189.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_198.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_224.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_226.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_229.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_23.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_239.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_247.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_265.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_277.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_280.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_286.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_34.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_37.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_65.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_66.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_88.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_95.jpg,Printer,val
+ewaste-dataset\val\Printer\Printer_99.jpg,Printer,val
+ewaste-dataset\val\Television\Television_103.jpg,Television,val
+ewaste-dataset\val\Television\Television_105.jpg,Television,val
+ewaste-dataset\val\Television\Television_108.jpg,Television,val
+ewaste-dataset\val\Television\Television_118.jpg,Television,val
+ewaste-dataset\val\Television\Television_122.jpg,Television,val
+ewaste-dataset\val\Television\Television_129.jpg,Television,val
+ewaste-dataset\val\Television\Television_130.jpg,Television,val
+ewaste-dataset\val\Television\Television_146.jpg,Television,val
+ewaste-dataset\val\Television\Television_147.jpg,Television,val
+ewaste-dataset\val\Television\Television_150.jpg,Television,val
+ewaste-dataset\val\Television\Television_169.jpg,Television,val
+ewaste-dataset\val\Television\Television_189.jpg,Television,val
+ewaste-dataset\val\Television\Television_198.jpg,Television,val
+ewaste-dataset\val\Television\Television_224.jpg,Television,val
+ewaste-dataset\val\Television\Television_226.jpg,Television,val
+ewaste-dataset\val\Television\Television_229.jpg,Television,val
+ewaste-dataset\val\Television\Television_23.jpg,Television,val
+ewaste-dataset\val\Television\Television_239.jpg,Television,val
+ewaste-dataset\val\Television\Television_247.jpg,Television,val
+ewaste-dataset\val\Television\Television_265.jpg,Television,val
+ewaste-dataset\val\Television\Television_277.jpg,Television,val
+ewaste-dataset\val\Television\Television_280.jpg,Television,val
+ewaste-dataset\val\Television\Television_286.jpg,Television,val
+ewaste-dataset\val\Television\Television_34.jpg,Television,val
+ewaste-dataset\val\Television\Television_37.jpg,Television,val
+ewaste-dataset\val\Television\Television_65.jpg,Television,val
+ewaste-dataset\val\Television\Television_66.jpg,Television,val
+ewaste-dataset\val\Television\Television_88.jpg,Television,val
+ewaste-dataset\val\Television\Television_95.jpg,Television,val
+ewaste-dataset\val\Television\Television_99.jpg,Television,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_103.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_105.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_108.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_118.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_122.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_129.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_130.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_146.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_147.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_150.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_169.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_189.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_198.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_224.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_226.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_229.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_23.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_239.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_247.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_265.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_277.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_280.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_286.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_34.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_37.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_65.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_66.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_88.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_95.jpg,Washing Machine,val
+ewaste-dataset\val\Washing Machine\Washing_Machine_99.jpg,Washing Machine,val
